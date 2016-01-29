@@ -1,0 +1,29 @@
+name: proof of cooking
+favicon: null
+layout_spectrum: 0.5064969842787832
+typography_spectrum: 0.01920404494740069
+title: 自炊の証拠
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9016405716538429
+  lightness: 0.427971598925069
+  saturation: 0.4239919090177864
+  rhythmicContrast: 0.5188947995193303
+purpose: []
